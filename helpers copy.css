@@ -1,0 +1,148 @@
+/* Grid */
+.float-right{
+  float: right;
+}
+.float-left{
+  float: left;
+}
+.clear-floats{
+  clear: both;
+}
+
+/* Spacing */
+
+/* Remove Spacing */
+.pad-l-0{
+  padding-left:0;
+}
+.pad-r-0{ 
+  padding-right:0;
+}
+.pad-t-0{
+  padding-top:0;
+}
+.pad-b-0{
+  padding-bottom:0;
+}
+.pad-0{
+  padding:0 0 0 0;
+}
+.mar-l-0{
+  margin-left:0;
+}
+.mar-r-0{
+  margin-right:0;
+}
+.mar-t-0{
+  margin-top:0;
+}
+.mar-b-0{
+  margin-bottom:0;
+}
+.mar-0{
+  margin:0 0 0 0;
+}
+
+/* Add 12px */
+.pad-b-12{
+  padding-bottom: 12px;
+}
+.pad-t-12{
+  padding-top: 12px;
+}
+.pad-l-12{
+  padding-left: 12px;
+}
+.pad-r-12{
+  padding-right: 12px;
+}
+.mar-b-12{
+  margin-bottom:12px;
+}
+.mar-t-12{
+  margin-top:12px;
+}
+
+/* Add 24px */
+.pad-b-24{
+  padding-bottom: 24px;
+}
+.pad-t-24{
+  padding-top: 24px;
+}
+.pad-l-24{
+  padding-left: 24px;
+}
+.pad-r-24{
+  padding-right: 24px;
+}
+.mar-b-24{
+  margin-bottom:24px;
+}
+.mar-t-24{
+  margin-top:24px;
+}
+.mar-r-24{
+  margin-right:24px;
+}
+
+/* Add 32px */
+.pad-l-32{
+  padding-left: 32px;
+}
+.pad-b-32{
+  padding-bottom: 32px;
+}
+.mar-t-32{
+  margin-top:32px;
+}
+.mar-b-32{
+  margin-bottom:32px;
+}
+
+/* Add 48px */
+.pad-b-48{
+  padding-bottom: 48px;
+}
+.pad-t-48{
+  padding-top: 48px;
+}
+.pad-l-48{
+  padding-left: 48px;
+}
+.pad-r-48{
+  padding-right: 48px;
+}
+.mar-b-48{
+  margin-bottom:48px;
+}
+.mar-t-48{
+  margin-top:48px;
+}
+
+
+/* Typography*/
+.right{
+  text-align: right;
+}
+.center{
+  text-align: center;
+}
+.left{
+  text-align: left;
+}
+.call-out {
+  border-left: 5px solid #007acc;
+}
+
+
+.pix {
+    max-width: 100%;
+    height: auto;
+}
+
+
+
+
+
+
